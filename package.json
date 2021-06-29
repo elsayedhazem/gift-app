@@ -1,0 +1,19 @@
+{
+  "name": "gift-app",
+  "version": "1.0.0",
+  "description": "The new way to gift anyone, anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsayedhazem/gift-app.git"
+  },
+  "author": "Hazem Elsayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsayedhazem/gift-app/issues"
+  },
+  "homepage": "https://github.com/elsayedhazem/gift-app#readme"
+}
