@@ -3,7 +3,7 @@ const Schema = mongoose.Schema;
 const { capitalize } = require("./utils");
 
 const SellerSchema = Schema({
-  Name: {
+  name: {
     required: true,
     type: String,
     set: capitalize,
